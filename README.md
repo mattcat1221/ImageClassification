@@ -44,7 +44,7 @@ Allows users to test the model with their own images and see predictions in real
 - [Contact](#contact)
 
 ## Installation
-TensorFlow pip install tensorflow  TensorFlow Hub pip install tensorflow-hub  Matplotlib pip install matplotlib  NumPy pip install numpy  OpenCV pip install opencv-python  Pandas pip install pandas  Scikit-learn pip install scikit-learn  Jupyter Notebook pip install notebook  Optional installation:  Seaborn (for advanced visualizations) pip install seaborn
+TensorFlow, TensorFlow Hub, Matplotlib, NumPy, OpenCV, Pandas, Scikit-learn, Jupyter Notebook, Seaborn (for advanced visualizations) 
 
 ## Usage
 analysis
