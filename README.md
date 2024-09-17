@@ -32,6 +32,7 @@ Interactive Model Testing:
 Allows users to test the model with their own images and see predictions in real-time.
 
 ![download (1)](https://github.com/user-attachments/assets/bbec24ea-bfc8-422b-9dc6-9f12bc2084cd)
+![app image]<img width="335" alt="edit" src="https://github.com/user-attachments/assets/237649cd-8e01-4ae0-9885-c21b03dfc295">
 
 
 ## Table of Contents
