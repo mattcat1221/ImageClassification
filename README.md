@@ -27,16 +27,16 @@ Uses early stopping to prevent overfitting and reduce training time.
 
 Interactive Model Testing:
 Allows users to test the model with their own images and see predictions in real-time.
-
+![download (2)](https://github.com/user-attachments/assets/ea843fa9-f11e-43db-ba40-dfe56664b42f)
 
 <img width="335" alt="edit" src="https://github.com/user-attachments/assets/237649cd-8e01-4ae0-9885-c21b03dfc295">
 
-In the photo above, the classifier iccorectly labels this image as clean, could it be that it was because the man in the photo is sweeping?
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)![download (2)](https://github.com/user-attachments/assets/ea843fa9-f11e-43db-ba40-dfe56664b42f)
+- [License](#license)
 - [Features](#features)
 
 - [Contact](#contact)
