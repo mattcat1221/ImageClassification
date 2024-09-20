@@ -55,7 +55,8 @@ MIT
 
 ## Features
 The model classifies images as either "clean" or "dirty" based on street cleanliness.  Pre-trained Model Integration: Leverages a pre-trained model from TensorFlow Hub, such as MobileNetV2, for transfer learning.  Image Processing & Augmentation: Includes image resizing, normalization, and augmentation (shear, rotation, zoom, flips) to enhance the dataset.  Object Detection (Optional): Object detection capability using SSD MobileNetV2 for identifying objects in images.  Model Performance Evaluation: Tracks model accuracy, loss, and validation performance during training.  Image Visualization: Displays images along with predicted and actual labels for manual review.  Early Stopping: Uses early stopping to prevent overfitting and reduce training time.  Interactive Model Testing: Allows users to test the model with their own images and see predictions in real-time.
-![download (2)](https://github.com/user-attachments/assets/ea843fa9-f11e-43db-ba40-dfe56664b42f)
+
+![download (1)](https://github.com/user-attachments/assets/9b21b460-297b-4e2f-b3e5-c6acefb1b95e)
 
 
 
