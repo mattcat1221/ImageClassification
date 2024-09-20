@@ -28,7 +28,7 @@ Uses early stopping to prevent overfitting and reduce training time.
 Interactive Model Testing:
 Allows users to test the model with their own images and see predictions in real-time.
 
-![Untitled 3](https://github.com/user-attachments/assets/21140fec-09c8-44f8-8a9a-237142f0aabc)
+
 <img width="335" alt="edit" src="https://github.com/user-attachments/assets/237649cd-8e01-4ae0-9885-c21b03dfc295">
 
 In the photo above, the classifier iccorectly labels this image as clean, could it be that it was because the man in the photo is sweeping?
@@ -36,7 +36,7 @@ In the photo above, the classifier iccorectly labels this image as clean, could 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+- [License](#license)![download (2)](https://github.com/user-attachments/assets/ea843fa9-f11e-43db-ba40-dfe56664b42f)
 - [Features](#features)
 
 - [Contact](#contact)
@@ -55,6 +55,7 @@ MIT
 
 ## Features
 The model classifies images as either "clean" or "dirty" based on street cleanliness.  Pre-trained Model Integration: Leverages a pre-trained model from TensorFlow Hub, such as MobileNetV2, for transfer learning.  Image Processing & Augmentation: Includes image resizing, normalization, and augmentation (shear, rotation, zoom, flips) to enhance the dataset.  Object Detection (Optional): Object detection capability using SSD MobileNetV2 for identifying objects in images.  Model Performance Evaluation: Tracks model accuracy, loss, and validation performance during training.  Image Visualization: Displays images along with predicted and actual labels for manual review.  Early Stopping: Uses early stopping to prevent overfitting and reduce training time.  Interactive Model Testing: Allows users to test the model with their own images and see predictions in real-time.
+![download (2)](https://github.com/user-attachments/assets/ea843fa9-f11e-43db-ba40-dfe56664b42f)
 
 
 
